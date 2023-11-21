@@ -1,0 +1,2 @@
+# Exploratory Data Analysis on Customer's Records from Groceries Firm's Database
+In this Project,Exloratory data analysis is done on customer's records from groceries firm's database. The dataset is taken from the Kaggle platform. In this work after loading data file data preparation and cleaning is done by Numpy and Pandas Libraries. After that exploratory analysis and visualization of data is doen by Matplotlib and Seaborn Libraries. In the last ask and asnswer interesting questions about the data. 
